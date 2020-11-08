@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T00:14:05.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="fcTbn5vtbhlxwIsNv88y" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-08T00:34:48.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="ruYGHgmTeohqfHOtUSf1" version="13.9.2" type="github">
   <diagram id="h0yh4uh9Ou2qqzZrw4VW" name="Page-1">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
         <mxCell id="i4_D4u_NBAQ-QaVN7W0C-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="fXs1r2CifXFu1rM4M8Fj-11" target="i4_D4u_NBAQ-QaVN7W0C-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fXs1r2CifXFu1rM4M8Fj-11" value="&lt;span&gt;Fund Account&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="fXs1r2CifXFu1rM4M8Fj-11" value="&lt;span&gt;Calculate Buying Power&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="480" y="830" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fXs1r2CifXFu1rM4M8Fj-15" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
@@ -81,7 +81,7 @@
             <mxPoint x="580" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i4_D4u_NBAQ-QaVN7W0C-1" value="Calculate Buying Power" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="i4_D4u_NBAQ-QaVN7W0C-1" value="Fund Account" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="480" y="910" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i4_D4u_NBAQ-QaVN7W0C-13" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4_D4u_NBAQ-QaVN7W0C-9" target="fXs1r2CifXFu1rM4M8Fj-6">
