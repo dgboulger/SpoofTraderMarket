@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T03:12:28.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="Nd-JeedFC6bQSqHXX5Ls" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T03:16:05.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="y5cKVFvM1LyR378Tvlm6" version="13.9.2" type="github">
   <diagram id="h0yh4uh9Ou2qqzZrw4VW" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,9 +40,9 @@
         <mxCell id="fXs1r2CifXFu1rM4M8Fj-20" value="Error" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="60" y="380" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i4_D4u_NBAQ-QaVN7W0C-22" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fXs1r2CifXFu1rM4M8Fj-3" target="OsMlclKe9sGLii8gvVtk-4" edge="1">
+        <mxCell id="i4_D4u_NBAQ-QaVN7W0C-22" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fXs1r2CifXFu1rM4M8Fj-3" target="U1gIK-Ml1kVYt0ZC6_mx-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="115" as="targetPoint" />
+            <mxPoint x="340" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fXs1r2CifXFu1rM4M8Fj-8" value="Record financial transaction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
@@ -54,16 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OsMlclKe9sGLii8gvVtk-1" value="Submit order to broker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="480" y="260" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OsMlclKe9sGLii8gvVtk-5" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OsMlclKe9sGLii8gvVtk-4" target="OsMlclKe9sGLii8gvVtk-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OsMlclKe9sGLii8gvVtk-9" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OsMlclKe9sGLii8gvVtk-4" target="fXs1r2CifXFu1rM4M8Fj-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OsMlclKe9sGLii8gvVtk-4" value="&lt;span&gt;Confirm request?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="480" y="265" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U1gIK-Ml1kVYt0ZC6_mx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U1gIK-Ml1kVYt0ZC6_mx-1" target="U1gIK-Ml1kVYt0ZC6_mx-3">
           <mxGeometry relative="1" as="geometry" />
@@ -92,7 +83,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U1gIK-Ml1kVYt0ZC6_mx-11" value="Determine trade financial impact" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="140" y="180" width="200" height="30" as="geometry" />
+          <mxGeometry x="140" y="170" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U1gIK-Ml1kVYt0ZC6_mx-15" value="Change" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="U1gIK-Ml1kVYt0ZC6_mx-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="185" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="185" />
+              <mxPoint x="340" y="185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U1gIK-Ml1kVYt0ZC6_mx-16" value="Confirm" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U1gIK-Ml1kVYt0ZC6_mx-14" target="OsMlclKe9sGLii8gvVtk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1gIK-Ml1kVYt0ZC6_mx-17" value="Cancel" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U1gIK-Ml1kVYt0ZC6_mx-14" target="fXs1r2CifXFu1rM4M8Fj-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1gIK-Ml1kVYt0ZC6_mx-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="230" width="20" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
