@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T02:42:17.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="kTvftNu_eY7pRMS-oeQB" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T03:12:28.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="Nd-JeedFC6bQSqHXX5Ls" version="13.9.2" type="github">
   <diagram id="h0yh4uh9Ou2qqzZrw4VW" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U1gIK-Ml1kVYt0ZC6_mx-11" value="Calculate Buying Power" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="U1gIK-Ml1kVYt0ZC6_mx-11" value="Determine trade financial impact" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="140" y="180" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
