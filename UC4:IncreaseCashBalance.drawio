@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T06:11:42.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="CrK6_lZ3xK-kTBBVQg2I" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T06:19:39.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="08iu59b7IRi4Geu7wspI" version="13.9.9" type="github">
   <diagram id="h0yh4uh9Ou2qqzZrw4VW" name="Page-1">
     <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -78,6 +78,21 @@
             <mxPoint x="585" y="480" as="sourcePoint" />
             <mxPoint x="615" y="460" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OouD6I3U7f3vESM8vOfz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OouD6I3U7f3vESM8vOfz-1" target="OouD6I3U7f3vESM8vOfz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OouD6I3U7f3vESM8vOfz-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="102.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OouD6I3U7f3vESM8vOfz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OouD6I3U7f3vESM8vOfz-2" target="VSlNwRkXBHqi9DPdbiYh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OouD6I3U7f3vESM8vOfz-2" value="" style="html=1;shape=mxgraph.sysml.timeEvent;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;" vertex="1" parent="1">
+          <mxGeometry x="210" y="102.5" width="35" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OouD6I3U7f3vESM8vOfz-5" value="[ Scheduled Time &amp;gt;= Timer ]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="160" width="165" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
