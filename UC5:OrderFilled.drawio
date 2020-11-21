@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T01:49:31.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Bd-u9sGRH_rzX4TMy6YX" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-21T05:51:35.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Alutx-BLU3czjkoBsCO2" version="13.10.0" type="github">
   <diagram id="h0yh4uh9Ou2qqzZrw4VW" name="Page-1">
     <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
             <mxPoint x="421.25" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VSlNwRkXBHqi9DPdbiYh-1" value="Send requested &lt;br&gt;equity to exchange" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="VSlNwRkXBHqi9DPdbiYh-1" value="Swap equity items with exchange" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="321.25" y="130" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VSlNwRkXBHqi9DPdbiYh-4" value="Send collected fees to accounting" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
