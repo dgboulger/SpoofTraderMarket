@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T15:42:12.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="SDUZe5RW_GT5_erjoVWw" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-21T15:50:11.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="qAoQQmKKPJDP06cQOzd1" version="13.10.0" type="github">
   <diagram id="9OlRN7YWqP3GaA16J-kA" name="Page-1">
     <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="z9p9MfoPdnVYApyIsOZ6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z9p9MfoPdnVYApyIsOZ6-4" target="z9p9MfoPdnVYApyIsOZ6-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z9p9MfoPdnVYApyIsOZ6-4" value="Select an open order to cancel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="z9p9MfoPdnVYApyIsOZ6-4" value="Select an unfilled order to cancel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="140" y="110" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z9p9MfoPdnVYApyIsOZ6-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9p9MfoPdnVYApyIsOZ6-6" target="z9p9MfoPdnVYApyIsOZ6-10">
@@ -59,7 +59,7 @@
         <mxCell id="z9p9MfoPdnVYApyIsOZ6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z9p9MfoPdnVYApyIsOZ6-16" target="z9p9MfoPdnVYApyIsOZ6-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z9p9MfoPdnVYApyIsOZ6-16" value="Submit order to exchange" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="z9p9MfoPdnVYApyIsOZ6-16" value="Submit cancelation to exchange" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="480" y="380" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z9p9MfoPdnVYApyIsOZ6-17" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z9p9MfoPdnVYApyIsOZ6-19" target="z9p9MfoPdnVYApyIsOZ6-12">
